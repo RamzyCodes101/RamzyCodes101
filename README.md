@@ -2,28 +2,27 @@
 
 I'm an IT graduate and web developer currently growing into full-stack software development.
 
-I enjoy building practical web applications, improving my JavaScript skills, and learning how real software is structured from frontend to backend.
+I'm strengthening my JavaScript skills, learning modern frontend and backend tools, and building practical projects to improve my problem-solving and software-development skills.
 
-## What I'm working on
-- Strengthening my JavaScript fundamentals
-- Building practical software projects
-- Learning React, TypeScript, and Node.js
-- Improving my Git, GitHub, and command-line workflow
+## What I'm learning
+- JavaScript
+- React
+- TypeScript
+- Node.js
+- SQL
+- Git & GitHub
 
-## Tech I use
+## Tools I use
 - HTML
 - CSS
-- JavaScript
-- SQL
 - Tailwind CSS
 - Bootstrap
 - WordPress
-- Git & GitHub
 - Terminal / Command Line
 
 ## Current goal
-Become a confident full-stack software developer, build production-ready applications, and qualify for software-development roles locally and internationally.
+Become a confident full-stack software developer and build real-world applications that I can use in my portfolio and apply for software-development roles with.
 
-## Learning journey
-I'm using this GitHub profile to document my progress, build consistently, and improve through real projects rather than only tutorials.
+## My journey
+I'm documenting my progress here as I learn, build, make mistakes, and improve consistently.
 
